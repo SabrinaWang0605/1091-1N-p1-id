@@ -1,0 +1,59 @@
+.table {
+  width: 80%;
+  height: 100%;
+}
+
+.name {
+  background: blueviolet;
+  width: 30px;
+  height: 10px;
+  text-align: center;
+}
+
+.tablename {
+  background: rgb(4, 136, 243);
+  width: 80px;
+  height: 20px;
+  text-align: center;
+}
+
+.Weekday {
+  background: rgb(2, 201, 201);
+  width: 16px;
+  height: 15px;
+  text-align: center;
+}
+
+.number {
+  width: 4px;
+  height: 15px;
+  background-color: darkorange;
+}
+
+.time {
+  width: 26px;
+  height: 15px;
+  background-color: rgb(255, 196, 0);
+}
+
+.content {
+  background: rgb(3, 160, 113);
+  width: 16px;
+  height: 15px;
+  text-align: center;
+}
+
+.contact {
+  background: blueviolet;
+  width: 30px;
+  height: 10px;
+  text-align: center;
+  text-decoration-color: #ffffff;
+}
+
+.contactor {
+  background: gray;
+  width: 30px;
+  height: 10px;
+  text-align: center;
+}

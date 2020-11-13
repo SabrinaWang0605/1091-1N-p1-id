@@ -1,0 +1,37 @@
+* {
+  outline-style: solid #000000;
+}
+
+.haed {
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.card .img {
+  width: auto;
+}
+
+.title1 {
+  color: grey;
+  font-size: 18px;
+}
+
+.content {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+}
+
+.title1,
+.content {
+  display: inline;
+}
+
+.icon {
+  display: flex;
+}
